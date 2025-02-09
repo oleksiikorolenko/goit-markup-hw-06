@@ -98,7 +98,7 @@ input,textarea,button{
 
 
 
-.address-links .link{
+/* .address-links .link{
     color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -108,11 +108,11 @@ input,textarea,button{
     transition-property: color;
     transition-duration: 250ms;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
-.address-links .link:hover,
+} */
+/* .address-links .link:hover,
 .address-links .link:focus{
     color: #404BBF;
-}
+} */
 /* .address-links{
     font-style: normal;
     margin-left: auto; */
