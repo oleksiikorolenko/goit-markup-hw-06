@@ -136,7 +136,7 @@ input,textarea,button{
   /*Hero*/
 
 
-.hero{
+/* .hero{
     max-width: 1440px;
 padding: 188px 0;
     background-color: #2E2F42;
@@ -147,15 +147,13 @@ padding: 188px 0;
    background-position: center;
    background-size: cover;
    
-}
+} */
 
-.hero-title{
+
+
+
+/* .hero-title{
     max-width: 496px;
-}
-
-
-.hero-title{
-    width: 496px;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
@@ -163,9 +161,9 @@ padding: 188px 0;
     text-align: center;
     letter-spacing: 0.02em;
     margin: 0 auto ;
-}
+} */
 
-.page-button{
+/* .page-button{
     color: #FFFFFF;
     min-width: 169px;
     height: 56px;
@@ -182,11 +180,11 @@ padding: 188px 0;
     margin: 0 auto;
     margin-top: 48px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.page-button:hover,
+} */
+/* .page-button:hover,
 .page-button:focus{
     background-color: #404BBF;
-}
+} */
 
 .button-container{
     padding: 0 495px 188px 495px;
@@ -214,7 +212,7 @@ gap: 24px;
 
 
 
-.values-list-titles{
+/* .values-list-titles{
 color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
@@ -222,15 +220,15 @@ color: #2E2F42;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
 
-}
-.values-list-text{
+} */
+/* .values-list-text{
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
-}
+} */
 
 .values-logo{
     background-color: #F4F4FD;
@@ -246,11 +244,11 @@ color: #2E2F42;
 
 /* Team */
 
-.team{
+/* .team{
     padding: 120px 0;
-}
+} */
 
-.team-title{
+/* .team-title{
     color: #2E2F42;
         font-weight: 700;
         font-size: 36px;
@@ -263,12 +261,12 @@ color: #2E2F42;
 
 .team-title{
     margin-bottom: 72px;
-}
+} */
 
-.team-list{
+/* .team-list{
     display: flex;
     gap: 24px;
-    }
+    } */
 
 .list-item{
     background-color: #FFFFFF;
@@ -279,7 +277,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 }
 
 
-.team-text-container{
+/* .team-text-container{
 padding: 32px 0;
 }
 
@@ -307,14 +305,14 @@ padding: 32px 0;
 
 .team{
     background-color: #F4F4FD;
-}
+} */
 
-.team-soc-list{
+/* .team-soc-list{
     display: flex;
     gap: 24px;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .team-soc-item{
     height: 40px;
